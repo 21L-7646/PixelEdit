@@ -88,7 +88,7 @@ class MainActivity : ComponentActivity() {
                         Text("Save")
                     }
                 }
-
+                Text("Image")
                 Row (modifier = Modifier
                     .fillMaxHeight(0.1f)
                     .fillMaxWidth()
